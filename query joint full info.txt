@@ -1,0 +1,3 @@
+SELECT t.*,e.*,count(*) from reg t,event e 
+group by branch
+ having branch='it and e.vvitid=t.vvitid';

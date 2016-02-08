@@ -1,0 +1,20 @@
+
+#head
+{
+height:110;
+width:100%;
+ background-color:#66ff66;
+ background-image:url('bg.jpg');
+ }
+ #midle
+{
+height:521;
+width:100%;
+}
+  #footer
+{
+height:50;
+width:100%;
+ background-color:#66ff66;
+  background-image:url('bg.jpg');
+ }
